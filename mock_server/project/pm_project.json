@@ -1,0 +1,13 @@
+[
+  {
+    "sys_id": "project1",
+    "number": "PRJ0000001",
+    "short_description": "Mock Project",
+    "state": "Open",
+    "priority": "1 - Critical",
+    "project_manager": {
+      "value": "user1",
+      "display_value": "Mock User"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "sys_id": "var1",
+    "name": "variable1",
+    "type": "string",
+    "question_text": "Variable 1",
+    "order": 100,
+    "mandatory": "true"
+  },
+  {
+    "sys_id": "var2",
+    "name": "variable2",
+    "type": "integer",
+    "question_text": "Variable 2",
+    "order": 200,
+    "mandatory": "false"
+  }
+]

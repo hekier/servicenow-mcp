@@ -1,0 +1,16 @@
+[
+  {
+    "sys_id": "workflow123",
+    "name": "Incident Approval",
+    "description": "Workflow for incident approval",
+    "active": "true",
+    "table": "incident"
+  },
+  {
+    "sys_id": "workflow456",
+    "name": "Change Request",
+    "description": "Workflow for change requests",
+    "active": "true",
+    "table": "change_request"
+  }
+]

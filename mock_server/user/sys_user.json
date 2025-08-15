@@ -1,0 +1,20 @@
+[
+  {
+    "sys_id": "user123",
+    "user_name": "alice.radiology",
+    "first_name": "Alice",
+    "last_name": "Radiology",
+    "email": "alice@example.com",
+    "department": "Radiology",
+    "title": "Doctor"
+  },
+  {
+    "sys_id": "user456",
+    "user_name": "bob.chiefradiology",
+    "first_name": "Bob",
+    "last_name": "ChiefRadiology",
+    "email": "bob@example.com",
+    "department": "Radiology",
+    "title": "Chief Doctor"
+  }
+]

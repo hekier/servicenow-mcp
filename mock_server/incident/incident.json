@@ -1,0 +1,17 @@
+[
+  {
+    "sys_id": "incident1",
+    "number": "INC0000001",
+    "short_description": "Mock Incident",
+    "state": "New",
+    "priority": "1 - Critical",
+    "caller_id": {
+      "value": "user1",
+      "display_value": "Mock User"
+    },
+    "assignment_group": {
+      "value": "group1",
+      "display_value": "Mock Group"
+    }
+  }
+]

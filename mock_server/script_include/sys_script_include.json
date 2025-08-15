@@ -1,0 +1,20 @@
+[
+  {
+    "sys_id": "123",
+    "name": "TestScriptInclude",
+    "script": "var TestScriptInclude = Class.create();\nTestScriptInclude.prototype = {\n    initialize: function() {\n    },\n\n    type: 'TestScriptInclude'\n};",
+    "description": "Test Script Include",
+    "api_name": "global.TestScriptInclude",
+    "client_callable": "true",
+    "active": "true",
+    "access": "public",
+    "sys_created_on": "2023-01-01 00:00:00",
+    "sys_updated_on": "2023-01-02 00:00:00",
+    "sys_created_by": {
+      "display_value": "admin"
+    },
+    "sys_updated_by": {
+      "display_value": "admin"
+    }
+  }
+]

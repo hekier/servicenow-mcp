@@ -1,0 +1,18 @@
+[
+  {
+    "sys_id": "item1",
+    "name": "Laptop",
+    "short_description": "Request a new laptop",
+    "description": "Request a new laptop for work",
+    "category": {
+      "value": "Hardware",
+      "display_value": "Hardware"
+    },
+    "price": "1000",
+    "picture": "laptop.jpg",
+    "active": "true",
+    "order": "100",
+    "delivery_time": "3 days",
+    "availability": "In Stock"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "sys_id": "version123",
+    "workflow": "workflow123",
+    "name": "Version 1",
+    "version": "1",
+    "published": "true"
+  },
+  {
+    "sys_id": "version456",
+    "workflow": "workflow123",
+    "name": "Version 2",
+    "version": "2",
+    "published": "true"
+  }
+]

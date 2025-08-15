@@ -1,0 +1,13 @@
+[
+  {
+    "sys_id": "epic1",
+    "number": "EPIC0000001",
+    "short_description": "Mock Epic",
+    "state": "Open",
+    "priority": "1 - Critical",
+    "project": {
+      "value": "project1",
+      "display_value": "Mock Project"
+    }
+  }
+]

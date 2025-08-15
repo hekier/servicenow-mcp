@@ -1,0 +1,16 @@
+[
+  {
+    "sys_id": "change123",
+    "number": "CHG0010001",
+    "short_description": "Test Change",
+    "type": "normal",
+    "state": "open"
+  },
+  {
+    "sys_id": "change456",
+    "number": "CHG0010002",
+    "short_description": "Another Test Change",
+    "type": "emergency",
+    "state": "in progress"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "sys_id": "123",
+    "name": "Test Changeset",
+    "state": "in_progress",
+    "application": "Test App",
+    "developer": "test.user"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "sys_id": "story1",
+    "number": "STORY0000001",
+    "short_description": "Mock Story",
+    "state": "Open",
+    "priority": "1 - Critical",
+    "epic": {
+      "value": "epic1",
+      "display_value": "Mock Epic"
+    }
+  }
+]

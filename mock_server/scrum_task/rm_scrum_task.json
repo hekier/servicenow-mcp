@@ -1,0 +1,17 @@
+[
+  {
+    "sys_id": "scrumtask1",
+    "number": "TASK0000001",
+    "short_description": "Mock Scrum Task",
+    "state": "Open",
+    "priority": "1 - Critical",
+    "story": {
+      "value": "story1",
+      "display_value": "Mock Story"
+    },
+    "assigned_to": {
+      "value": "user1",
+      "display_value": "Mock User"
+    }
+  }
+]
